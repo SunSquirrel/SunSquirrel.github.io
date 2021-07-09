@@ -1,11 +1,11 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: 松鼠侠的窝
+SEOTitle: 松鼠侠的博客
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: nfs9@vip.163.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "松鼠, 松鼠的博客, ssx, iOS, Apple, iPhone"
+url: "https://sunsquirrel.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
